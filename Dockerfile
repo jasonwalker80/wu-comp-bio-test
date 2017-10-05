@@ -1,4 +1,4 @@
-M ubuntu:xenial
+FROM ubuntu:xenial
 MAINTAINER Jason Walker <jason.walker@wustl.edu>
 LABEL \
     description="Test hello-world docker image."
